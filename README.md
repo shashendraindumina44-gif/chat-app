@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=🌹+Bloody+Rose;Premium+Chat+Experience](https://chat-room-cyan.vercel.app/logo.png)" alt="Bloody Rose" />
+<img src="https://chat-room-cyan.vercel.app/logo.png" alt="Bloody Rose" />
 
 <br/>
 
