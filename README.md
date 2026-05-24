@@ -28,8 +28,6 @@
 | 🌙 **Dark / Light Mode** | Smooth theme switching |
 | 😊 **Emoji Support** | Full emoji tray in chat |
 | 👤 **User Profiles** | Custom avatars, banners & bios |
-| 🛡️ **Admin Panel** | Ban/unban users, view stats, manage accounts |
-| 🔐 **Firebase Auth** | Secure email/password authentication |
 | 📱 **Responsive** | Works on mobile & desktop |
 
 ---
@@ -38,46 +36,6 @@
 
 🌐 **[chat-room-cyan.vercel.app](https://chat-room-cyan.vercel.app)**
 
----
-
-## 🛠️ Tech Stack
-
-- **Frontend** — HTML, CSS, JavaScript
-- **Backend** — Firebase Firestore & Authentication
-- **AI** — Groq API
-- **Hosting** — Vercel
-- **Security** — Cloudflare
-
----
-
-## 📁 Project Structure
-
-```
-chat-room/
-├── public/
-│   ├── index.html      # Login / Register
-│   ├── chat.html       # Main Chat Interface
-│   ├── profile.html    # User Profile Page
-│   └── admin.html      # Admin Dashboard
-├── api/
-│   └── groq.js         # AI API Handler
-└── vercel.json         # Vercel Config
-```
-
----
-
-## ⚙️ Setup
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/shashendraindumina44/chat-room.git
-
-# 2. Add your Firebase config in each HTML file
-# 3. Deploy to Vercel
-vercel deploy
-```
-
----
 
 <div align="center">
 
